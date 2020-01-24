@@ -1,0 +1,20 @@
+{
+  "name": "jenkins-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Build successfull\""
+    "test": "echo \"Test successfull""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikhofer/jenkins-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikhofer/jenkins-test/issues"
+  },
+  "homepage": "https://github.com/erikhofer/jenkins-test#readme"
+}
